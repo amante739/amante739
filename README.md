@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+👋 Hello! I'm an Experienced Software Engineer passionate about creating exceptional software solutions. My journey in software engineering has been filled with continuous learning and growth. I'm skilled in Java Spring Boot, Node.js, MERN Stack, Docker, PHP, and more.
 
+🎓 I hold a Bachelor of Science in Computer Science and Engineering, and I'm currently pursuing a Master's in Web Engineering. 
+
+💡 Highlights of my career include working with REST APIs, SOAP, and complex integrations, seamlessly connecting diverse technologies.
+
+💻 I'm dedicated to delivering high-quality solutions and thrive in collaborative environments. Let's connect and embark on new software adventures together!
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
