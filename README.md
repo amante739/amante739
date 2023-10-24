@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👋 Hello! I'm an Experienced Software Engineer passionate about creating exceptional software solutions. My journey in software engineering has been filled with continuous learning and growth. I'm skilled in Java Spring Boot, Node.js, MERN Stack, Docker, PHP, and more.
+I'm an Experienced Software Engineer passionate about creating exceptional software solutions. My journey in software engineering has been filled with continuous learning and growth. I'm skilled in Java Spring Boot, Node.js, MERN Stack, Docker, PHP, and more.
 
 🎓 I hold a Bachelor of Science in Computer Science and Engineering, and I'm currently pursuing a Master's in Web Engineering. 
 
